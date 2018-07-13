@@ -17,3 +17,5 @@ class App < Sinatra::Base
     @power_forward = params[:power_forward]
     @center = params[:center]
 end
+
+end 
